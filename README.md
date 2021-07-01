@@ -20,6 +20,6 @@ En tant que développeur, on vous demande de lister les fonctionnalités dont a 
 
 Vous devrez ensuite réaliser une première maquette de ce site correspondant à ses attentes, en utilisant uniquement HTML et CSS.
 
-Livrables
-Cahier des charges du projet (PDF)
-Code source complet du projet (HTML/CSS et autres fichiers nécessaires, zippés)
+Livrables :
+ - Cahier des charges du projet (PDF)
+ - Code source complet du projet (HTML/CSS et autres fichiers nécessaires, zippés)
