@@ -27,3 +27,7 @@ Vous devrez ensuite réaliser une première maquette de ce site correspondant à
 Livrables :
  - Cahier des charges du projet (PDF)
  - Code source complet du projet (HTML/CSS et autres fichiers nécessaires, zippés)
+
+---
+
+Démonstration en ligne [ici](https://films-de-plein-air.maxence-bonnet.fr/index.html)
